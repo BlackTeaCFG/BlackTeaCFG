@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BlackTeaCFG
+- 👀 I’m interested in Python dev
+- 🌱 I’m currently learning SQL 
+- 💞️ I want to collaborate with interesting people
+- 📫 How to reach me blackteacfg@gmail.com
