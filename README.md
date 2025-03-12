@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BlackTeaCFG
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DL
+- 👀 I’m interested in Backend
 - 💞️ I want to collaborate with interesting people
 - 📫 How to reach me blackteacfg@gmail.com
